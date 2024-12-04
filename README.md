@@ -186,7 +186,7 @@ extension/
 
 - 提交问题：GitHub Issues
 - 功能建议：GitHub Discussions
-- 邮件支持：support@example.com
+- 邮件支持：2102265809@qq.com
 
 ## 许可证
 
